@@ -3,3 +3,5 @@ valid/
 *.csv
 *.txt
 .ipynb_checkpoints/
+.DS_Store
+new_data/
